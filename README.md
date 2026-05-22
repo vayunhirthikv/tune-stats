@@ -6,7 +6,14 @@ Built with **Next.js 15**, **TypeScript**, **Tailwind CSS**, **shadcn/ui**, **Re
 
 ![TuneStats](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)
 ![Next.js 15](https://img.shields.io/badge/Next.js-15-black)
+<img width="2879" height="1488" alt="Screenshot 2026-05-22 130038" src="https://github.com/user-attachments/assets/1f316798-ed6b-470b-8966-9425344fde21" />
+
+<img width="2879" height="1628" alt="Screenshot 2026-05-22 130117" src="https://github.com/user-attachments/assets/faedcfa7-3bb1-41d0-bfc3-2045c0215408" />
+<img width="2879" height="1499" alt="Screenshot 2026-05-22 130139" src="https://github.com/user-attachments/assets/82d1006c-e950-49ff-9583-101d0649571e" />
+
+
 <img width="2879" height="1486" alt="Screenshot 2026-05-22 130157" src="https://github.com/user-attachments/assets/ef0aa9d0-6875-4b60-b806-6d0f670893fd" />
+
 
 ## Free Tier Features
 
