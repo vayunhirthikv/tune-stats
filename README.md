@@ -1,11 +1,12 @@
-# TuneStats — Spotify Listening Stats (stats.fm Free Clone)
+# TuneStats — Spotify Listening Stats 
 
-A dark, premium web app that connects to Spotify via OAuth and surfaces deep listening statistics — top artists, tracks, albums, listening patterns, genre insights, and a shareable music personality card.
+A  premium web app that connects to Spotify via OAuth and surfaces deep listening statistics — top artists, tracks, albums, listening patterns, genre insights, and a shareable music personality card.
 
 Built with **Next.js 15**, **TypeScript**, **Tailwind CSS**, **shadcn/ui**, **Recharts**, **Auth.js**, **Prisma**, and **PostgreSQL**. Vercel-ready.
 
 ![TuneStats](https://img.shields.io/badge/Spotify-1DB954?style=flat&logo=spotify&logoColor=white)
 ![Next.js 15](https://img.shields.io/badge/Next.js-15-black)
+<img width="2879" height="1486" alt="Screenshot 2026-05-22 130157" src="https://github.com/user-attachments/assets/ef0aa9d0-6875-4b60-b806-6d0f670893fd" />
 
 ## Free Tier Features
 
